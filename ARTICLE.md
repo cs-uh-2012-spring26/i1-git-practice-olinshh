@@ -6,4 +6,4 @@ I think that **Google DeepMind** is inspring due to their applications of machin
 
 **Proof Reading**
 
-Article checked for typos
+Article checked for typos!
