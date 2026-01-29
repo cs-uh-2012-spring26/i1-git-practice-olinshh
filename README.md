@@ -3,3 +3,5 @@
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
 My name is Viesturs Olins
+
+[Link to merged pull request in classmate's repository](https://github.com/cs-uh-2012-spring26/i1-git-practice-mef9957/pull/3)
