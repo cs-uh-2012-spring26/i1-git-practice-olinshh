@@ -8,3 +8,8 @@ I think **Google DeepMind** is inspring due to their applications of machine lea
 **Proof Reading**
 
 Article checked for typos!
+
+**Comment by Maryam Emaan**
+
+
+I found this article really interesting, especially how it highlights the impact of machine learning beyond traditional software applications. The examples of AlphaGo and AlphaFold clearly show how computer science can influence entire fields like gaming and biology. It also made me reflect on how powerful and far-reaching well-designed algorithms can be.
